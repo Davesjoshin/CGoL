@@ -11,3 +11,9 @@ Python virtual environment (venv) is recommneded.
 ```python3 -m venv venv``` 
 then
 ```source venv/bin/activate ```
+
+Once you are you seen venv is running, then you can install the required libraries.
+```
+pip install pygame
+pip install numpy
+```
